@@ -4,16 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c377e759-8667-4e79-8335-cba72afce386" name="Changes" comment="" />
+    <list default="true" id="c377e759-8667-4e79-8335-cba72afce386" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/swaglabs/testautmationexercise.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/automationexercise/autmationexercisetest.cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/swaglabs/testsignup/criarcontatest.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/automationexercise/criarcontatest.cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/swaglabs/testsignup/enchendocarrinhotest.cy.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "andersongulartew"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/andersongulartew/teste-cypress.git",
+    "accountId": "43b6e65c-df9e-4c71-b392-9404a134d76a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fyRSluCLPM5yjZiNcybRhTgTLs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +43,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Anderson/Desktop/Repositorio GitHub/teste-cypress",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -31,6 +55,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anderson\Desktop\Repositorio GitHub\teste-cypress\cypress\e2e\swaglabs" />
+      <recent name="C:\Users\Anderson\Desktop\Repositorio GitHub\teste-cypress\cypress\e2e\swaglabs\testsignup" />
       <recent name="C:\Users\Anderson\Desktop\cypress-test\cypress\e2e" />
       <recent name="C:\Users\Anderson\Desktop\cypress-test\cypress\swaglabs" />
     </key>
